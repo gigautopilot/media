@@ -3,16 +3,90 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GigAutopilot</title>
+<title>GigAutopilot · AI for freelancers</title>
+<meta name="description" content="Copy-paste AI prompts and workflows that help freelancers get clients, get paid and cut admin. One shortcut a day.">
+<meta property="og:title" content="GigAutopilot · Run your freelance business on autopilot">
+<meta property="og:description" content="AI handles the clients, the chasing and the admin. You do the work you love.">
+<meta property="og:image" content="https://gigautopilot.github.io/media/logo.png">
+<link rel="icon" href="logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&display=swap" rel="stylesheet">
 <style>
-  body { font-family: -apple-system, system-ui, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; line-height: 1.6; color: #1a1a1a; }
-  h1 { font-size: 32px; }
+  :root { --bg:#0B0B0F; --card:#15151C; --line:#262631; --text:#F4F4F6; --muted:#A1A1AE; --blue:#3B82F6; --green:#22C55E; --red:#F87171; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--bg); color:var(--text); font-family:Inter, -apple-system, system-ui, sans-serif; line-height:1.55; }
+  a { color:inherit; }
+  .wrap { max-width:640px; margin:0 auto; padding:40px 16px 56px; }
+  header { display:flex; align-items:center; gap:12px; margin-bottom:36px; }
+  header img { width:44px; height:44px; border-radius:12px; }
+  header b { font-size:18px; font-weight:800; letter-spacing:-.01em; }
+  h1 { font-size:clamp(32px, 8vw, 46px); font-weight:900; line-height:1.08; letter-spacing:-.03em; }
+  h1 span { color:var(--blue); }
+  .lead { color:var(--muted); font-size:18px; margin:16px 0 28px; }
+  .btn { display:block; text-align:center; text-decoration:none; font-weight:800; font-size:17px; padding:16px 20px; border-radius:14px; background:var(--blue); color:#fff; transition:transform .15s; }
+  .btn:hover { transform:translateY(-2px); }
+  .btn.ghost { background:transparent; border:1.5px solid var(--line); color:var(--text); font-weight:600; }
+  .stack { display:grid; gap:12px; }
+  h2 { font-size:22px; font-weight:800; margin:48px 0 16px; letter-spacing:-.02em; }
+  .pain { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:18px 18px 16px; }
+  .pain .q { color:var(--red); font-weight:600; }
+  .pain .a { margin-top:6px; }
+  .pain .a::before { content:"→ "; color:var(--green); font-weight:800; }
+  .kit { background:linear-gradient(135deg, rgba(59,130,246,.18), rgba(34,197,94,.10)); border:1px solid rgba(59,130,246,.45); border-radius:20px; padding:24px; }
+  .tag { display:inline-block; font-size:12px; font-weight:800; letter-spacing:.08em; text-transform:uppercase; color:var(--green); margin-bottom:8px; }
+  .kit h3 { font-size:22px; font-weight:900; letter-spacing:-.02em; }
+  .kit ul { list-style:none; margin:14px 0 20px; display:grid; gap:6px; }
+  .kit li::before { content:"✓ "; color:var(--green); font-weight:800; }
+  .soon { color:var(--muted); font-size:14px; text-align:center; margin-top:10px; }
+  footer { margin-top:56px; color:var(--muted); font-size:13px; border-top:1px solid var(--line); padding-top:20px; }
+  footer a { color:var(--muted); }
 </style>
 </head>
 <body>
-<h1>GigAutopilot</h1>
-<p>One AI shortcut a day for freelancers and small business owners: prompts, tools and workflows that save time at work.</p>
-<p>Follow us: <a href="https://www.instagram.com/gigautopilot/">Instagram</a> · <a href="https://www.threads.net/@gigautopilot">Threads</a> · <a href="https://www.youtube.com/@gigautopilot">YouTube</a></p>
-<p><a href="privacy.html">Privacy Policy</a> · Contact: gigautopilot@gmail.com</p>
+<div class="wrap">
+  <header><img src="logo.png" alt="GigAutopilot logo"><b>GigAutopilot</b></header>
+
+  <h1>Run your freelance business on <span>autopilot</span>.</h1>
+  <p class="lead">AI handles the clients, the chasing and the admin. You do the work you love. One copy-paste shortcut a day, tested on free plans.</p>
+
+  <div class="stack">
+    <a class="btn" href="#kit">Get the free Starter Kit</a>
+    <a class="btn ghost" href="https://www.instagram.com/gigautopilot/">Follow on Instagram</a>
+  </div>
+
+  <h2>Sound familiar?</h2>
+  <div class="stack">
+    <div class="pain"><div class="q">“Your price is too high.”</div><div class="a">A reply that keeps your price and still gets a yes.</div></div>
+    <div class="pain"><div class="q">The invoice is 14 days late.</div><div class="a">A 5-step reminder ladder: friendly to firm, zero awkwardness.</div></div>
+    <div class="pain"><div class="q">“Just one more small change…”</div><div class="a">Turn free extra work into a paid add-on, politely.</div></div>
+    <div class="pain"><div class="q">You sent 20 pitches. Zero replies.</div><div class="a">A first line about their problem, not your bio.</div></div>
+  </div>
+
+  <h2 id="kit">Free: Freelance Autopilot Starter Kit</h2>
+  <div class="kit">
+    <span class="tag">Free · coming this week</span>
+    <h3>25 copy-paste prompts for the money side of freelancing</h3>
+    <ul>
+      <li>Find clients and write pitches that get replies</li>
+      <li>Get paid on time without awkward emails</li>
+      <li>Hold your price and stop scope creep</li>
+      <li>Kill the admin: inbox, notes, weekly plan</li>
+    </ul>
+    <a class="btn" href="https://www.instagram.com/gigautopilot/">Follow to get it first</a>
+    <p class="soon">Works with free ChatGPT, Claude or Gemini.</p>
+  </div>
+
+  <h2>Daily shortcuts</h2>
+  <div class="stack">
+    <a class="btn ghost" href="https://www.instagram.com/gigautopilot/">Instagram · @gigautopilot</a>
+    <a class="btn ghost" href="https://www.threads.net/@gigautopilot">Threads · @gigautopilot</a>
+    <a class="btn ghost" href="https://www.youtube.com/@gigautopilot">YouTube · @gigautopilot</a>
+  </div>
+
+  <footer>
+    <p>GigAutopilot publishes educational content about AI tools. No income promises: results depend on your work.</p>
+    <p style="margin-top:8px"><a href="privacy.html">Privacy Policy</a> · <a href="mailto:gigautopilot@gmail.com">gigautopilot@gmail.com</a></p>
+  </footer>
+</div>
 </body>
 </html>
