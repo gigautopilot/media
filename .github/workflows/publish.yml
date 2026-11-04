@@ -27,7 +27,7 @@ jobs:
       - name: Publish due posts
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_USER_ID: "17841475183950076"
           THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
           DRY_RUN: ${{ inputs.dry }}
         run: |
