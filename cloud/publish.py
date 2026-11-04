@@ -7,6 +7,7 @@
 
 Исходник: tools/social/cloud/publish.py в папке компании.
 """
+import hashlib
 import json
 import os
 import subprocess
@@ -126,6 +127,7 @@ def check():
     """Проверка без публикации: ключи работают из облака и что стоит на очереди."""
     me = call("GET", f"{IG}/{IG_USER_ID}", {"fields": "username,followers_count", "access_token": IG_TOKEN})
     print("instagram ok:", me.get("username"), "followers", me.get("followers_count"))
+    print("threads key length:", len(TH_TOKEN), "fingerprint:", hashlib.sha256(TH_TOKEN.encode()).hexdigest()[:8])
     me = call("GET", f"{TH}/me", {"fields": "username", "access_token": TH_TOKEN})
     print("threads ok:", me.get("username"))
     items = json.loads(QUEUE.read_text())
