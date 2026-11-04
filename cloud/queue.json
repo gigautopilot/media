@@ -1,1 +1,145 @@
-[]
+[
+ {
+  "id": "reel13-ig",
+  "kind": "ig_reel",
+  "at": "2026-11-04T17:30:00Z",
+  "status": "pending",
+  "note": "Difficult client 2/5, scope creep (боль 3)",
+  "first_comment": "What's the biggest \"small change\" a client has ever asked you for? 👇",
+  "text": "\"Should be quick!\" is how free work starts. 🙃\n\nDifficult client series, part 2/5. When a client asks for \"one more small change\" that's really a new project, don't say no and don't do it for free. Say yes, as a paid add-on.\n\nCopy-paste prompt (works in free ChatGPT, no login):\n\nMy client asked for \"one more small change\". It's new work. Write my reply.\nSay yes, but as a paid add-on: what our deal covered, what's new, the price, and when it's ready.\nFriendly, confident, no apologies, under 90 words.\nSay yes, then name the price. Never \"no problem\".\n\nOur deal: [what you agreed, e.g. logo + business card, 2 revision rounds (both used)]\n\nAdd-ons: [new item + your price, delivery time]\n\nTheir message: \"[paste the client's message]\"\n\nSwap the brackets for your own project. The last line of the instructions is the one that does the work.\n\n🔖 Save this for the next \"tiny tweak\".\n📤 Send it to a freelancer who always says \"no problem\".\n➕ Follow for part 3 tomorrow: what to send when a client ghosts you.\n\n#freelancetips #freelancer #chatgptprompts #scopecreep #clientmanagement",
+  "video": "https://gigautopilot.github.io/media/2026-11-03/2026-11-03-13-scope-creep-final.mp4"
+ },
+ {
+  "id": "T16-threads",
+  "kind": "threads_post",
+  "at": "2026-11-04T22:00:00Z",
+  "status": "pending",
+  "note": "Threads T16, 442 симв.",
+  "first_comment": null,
+  "text": "Hard truth: most scope creep is the freelancer's fault, not the client's.\n\nIf the scope lives in your head or in a vague email, the client can't know where it ends. Say yes to the first free tweak and you've set the rule for every one after it.\n\nWrite down what's included and what isn't before you start. A boundary stated early feels professional. Stated late, it feels like a fight.\n\nDo you put scope in writing first, or fix it as you go?"
+ },
+ {
+  "id": "T17-threads",
+  "kind": "threads_post",
+  "at": "2026-11-05T14:00:00Z",
+  "status": "pending",
+  "note": "Threads T17, 475 симв.",
+  "first_comment": null,
+  "text": "They asked for a proposal. You spent hours on it. Then silence.\n\nThat's lost time and a pipeline that looks fuller than it is. Just checking in doesn't fix it: it gives them nothing to answer.\n\nPaste into ChatGPT or Claude:\n\nWrite a follow-up to a client who went quiet after my proposal. Avoid the phrase just checking in. Add one useful idea for their project, then end with an easy yes or no question. Under 60 words. Proposal summary: [paste]\n\nFollow for part 4 tomorrow."
+ },
+ {
+  "id": "reel14-ig",
+  "kind": "ig_reel",
+  "at": "2026-11-05T17:30:00Z",
+  "status": "pending",
+  "note": "Difficult client 3/5, proposal ghosted (боль 1)",
+  "first_comment": "How long do you wait before following up on a proposal? 3 days, a week, never? 👇",
+  "text": "\"Just checking in\" gives them nothing to reply to. 👻\n\nDifficult client series, part 3/5. Your proposal went out, then silence. Instead of another nudge, send one new, specific idea for their business and end with an easy yes/no question.\n\nCopy-paste prompt (works in free ChatGPT, no login):\n\nA client went silent [X] days after my proposal. Write a short follow-up email.\nDon't write \"just checking in\" or \"following up\". Open with one new, specific idea for their business that wasn't in the proposal.\nEnd with an easy yes/no question. Friendly, no pressure, no discount, under 80 words.\nGive before you ask.\n\nMy proposal: [what, price, timeline]. Client: [name].\n\nWhat I noticed since: [one real thing you spotted about their business, plus any deadline coming up]\n\nThe \"what I noticed\" line matters most. Spend 5 minutes on their site or socials and find one real thing.\n\n🔖 Save this for the next silent client.\n📤 Send it to a freelancer who's waiting on a reply.\n➕ Follow. Part 4: the reply for unclear feedback.\n\n#freelancetips #freelancer #chatgptprompts #followupemail #freelancelife",
+  "video": "https://gigautopilot.github.io/media/2026-11-03/2026-11-03-14-proposal-ghosted-final.mp4"
+ },
+ {
+  "id": "T18-threads",
+  "kind": "threads_post",
+  "at": "2026-11-05T22:00:00Z",
+  "status": "pending",
+  "note": "Threads T18, 413 симв.",
+  "first_comment": null,
+  "text": "Unpopular opinion: the fourth follow-up is for you, not for the client.\n\nA proposal that goes quiet is usually a to-do that slid down their list, not a verdict on you. One follow-up with something useful is smart. After that you're chasing.\n\nSend a closing note instead: happy to pause this, reach out whenever it's back on your list. Door open, your time back.\n\nHow many follow-ups do you send before you let go?"
+ },
+ {
+  "id": "T19-threads",
+  "kind": "threads_post",
+  "at": "2026-11-06T14:00:00Z",
+  "status": "pending",
+  "note": "Threads T19, промпт make it pop",
+  "first_comment": null,
+  "text": "Client feedback: make it pop. Now you're guessing, and every wrong guess costs you a round.\n\nMake them pick instead. Paste into ChatGPT or Claude:\n\nClient feedback on my [work]: [their exact words]. Turn it into 3 either/or questions I can send back. Thank them first, under 80 words, no jargon. What I made: [your choices]\n\nFollow for part 5 tomorrow."
+ },
+ {
+  "id": "c03-ig",
+  "kind": "ig_carousel",
+  "at": "2026-11-06T15:00:00Z",
+  "status": "pending",
+  "note": "карусель c03 friday inbox (боль 6)",
+  "first_comment": "What's the one email you've been avoiding all week? Tell me the type (reply, no, or follow-up) and I'll point you to the right slide 👇",
+  "text": "Don't carry Friday's inbox into Monday. 📥\n\nThat unread pile is lighter than it looks. Most of it needs one of three things: a summary, a two-line reply, or a no. These 5 prompts handle all three:\n1. Turn a 40-message thread into decisions, owners, and open questions\n2. Write a 2-sentence reply from your yes/no (no \"just circling back\")\n3. Decline politely, once, without over-apologizing\n4. List who still owes you an answer, plus a one-line nudge for each\n5. Pick your top 3 for Monday morning, so you leave Friday with a plan\n\nFreelancer? Slide 6 shows who still owes you a reply, with a one-line nudge for each.\n\nBonus on slide 8: got a reply you keep rewriting? Turn it into a template with [BRACKETS] and reuse it every week.\n\nSwap the [BRACKETS], paste into a free AI chat, and remove private details first (names, numbers, anything confidential). Read the draft before you hit send. AI writes it, you approve it.\n\nSave this for Friday afternoon. Follow for one AI shortcut a day. Know someone drowning in email? Send them this.\n\n#aitools #chatgptprompts #productivityhacks #emailproductivity #workfromhome",
+  "images": [
+   "https://gigautopilot.github.io/media/carousels/2026-11-06-c03-friday-inbox-reset/01.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-06-c03-friday-inbox-reset/02.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-06-c03-friday-inbox-reset/03.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-06-c03-friday-inbox-reset/04.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-06-c03-friday-inbox-reset/05.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-06-c03-friday-inbox-reset/06.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-06-c03-friday-inbox-reset/07.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-06-c03-friday-inbox-reset/08.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-06-c03-friday-inbox-reset/09.jpg"
+  ]
+ },
+ {
+  "id": "reel15-ig",
+  "kind": "ig_reel",
+  "at": "2026-11-06T17:30:00Z",
+  "status": "pending",
+  "note": "Difficult client 4/5, make it pop (боль 4)",
+  "first_comment": "What's the vaguest feedback a client ever gave you? \"Make it pop\", \"more modern\", \"I'll know it when I see it\"? 👇",
+  "text": "\"Make it pop\" isn't feedback. It's a guessing game, and you pay for every wrong guess. 🫠\n\nDifficult client series, part 4/5. Vague feedback sends you redesigning blind, round after round. Instead, turn their exact words into 3 either/or questions they can answer with one quick reply.\n\nCopy-paste prompt (works in free ChatGPT, no login):\n\nMy client's feedback on my [WORK]: \"[THEIR EXACT WORDS]\"\nTurn it into 3 either/or questions so I can fix it in one round.\nWrite my reply: thank them, ask the 3 questions, under 80 words.\nNo defensiveness, no jargon.\nAsk, don't guess.\n\nWhat I made: [YOUR CHOICES: layout, colors, fonts, images].\n\nPaste their words exactly as written. The vague phrase is the clue, so don't clean it up. Read the reply before you send it.\n\n🔖 Save this for the next \"make it pop\".\n📤 Send it to a designer stuck on round four.\n➕ Follow. Tomorrow, the finale: revision number seven.\n\n#freelancetips #freelancer #chatgptprompts #clientcommunication #designerlife",
+  "video": "https://gigautopilot.github.io/media/2026-11-04/2026-11-06-15-unclear-feedback-final.mp4"
+ },
+ {
+  "id": "T20-threads",
+  "kind": "threads_post",
+  "at": "2026-11-06T22:00:00Z",
+  "status": "pending",
+  "note": "Threads T20, мнение",
+  "first_comment": null,
+  "text": "Unpopular opinion: vague feedback is a brief problem, not a client problem.\n\nClients aren't trained to describe design or copy. Make it pop just means they feel something is missing. Asking is your job, and guessing is the expensive way to skip it.\n\nTurn the feeling into a choice: bigger or smaller, warmer or cooler, A or B.\n\nDo you ask for examples before you start, or only after round one?"
+ },
+ {
+  "id": "T21-threads",
+  "kind": "threads_post",
+  "at": "2026-11-07T14:00:00Z",
+  "status": "pending",
+  "note": "Threads T21, промпт раунды правок",
+  "first_comment": null,
+  "text": "The contract said two rounds. You're on round seven. Nobody forced you: you just kept saying sure.\n\nSay the count out loud, calmly, then offer a paid option. Paste into ChatGPT or Claude:\n\nClient wants another revision. Our deal: [rounds agreed]. Rounds done: [number]. Extra rounds: [your price]. Write a calm reply: state the count first, then offer more as a paid option, end with one easy question. Under 80 words.\n\nFollow, a new series starts next."
+ },
+ {
+  "id": "reel16-ig",
+  "kind": "ig_reel",
+  "at": "2026-11-07T17:30:00Z",
+  "status": "pending",
+  "note": "Difficult client 5/5, revision #7 (боль 4)",
+  "first_comment": "Be honest: how many free revisions did you give on your last project? And did the contract say two? 👇",
+  "text": "Two rounds agreed. Six already done. Round seven isn't a favor, it's a conversation. 🔁\n\nDifficult client series, part 5/5. Every \"sure\" to one more tweak is free work. Instead of saying yes on autopilot, state the count calmly, offer extra rounds as a paid option, and let the client choose.\n\nCopy-paste prompt (works in free ChatGPT, no login):\n\nMy client wants another revision. Write my reply.\nState how many rounds we agreed and how many are done, then offer more as a paid option.\nWarm, calm, no apologies, no blame, under 80 words. End with one easy question.\nCount first, then offer.\n\nOur deal: [WHAT YOU AGREED, incl. revision rounds]. Rounds done: [NUMBER].\nExtra rounds: [YOUR PRICE].\nTheir message: \"[PASTE IT]\"\n\nThe prices in the video are just an example. Use your own, and check your agreement for the revision limit first. Read the reply before you send it.\n\n🔖 Save this for revision #7.\n📤 Send it to a freelancer who keeps saying \"sure\".\n➕ Follow. A new series starts next.\n\n#freelancetips #freelancer #chatgptprompts #scopecreep #clientmanagement",
+  "video": "https://gigautopilot.github.io/media/2026-11-04/2026-11-07-16-revision-7-final.mp4"
+ },
+ {
+  "id": "T22-threads",
+  "kind": "threads_post",
+  "at": "2026-11-07T22:00:00Z",
+  "status": "pending",
+  "note": "Threads T22, мнение",
+  "first_comment": null,
+  "text": "Hot take: saying sure, no problem to extra work isn't kindness. It's an unclear answer.\n\nThe client hears free. You meant polite. Neither of you is wrong, and you're the one who pays for it.\n\nSame warmth, clear terms: Happy to. That's an add-on, here's the price.\n\nWhich request did you say sure to that you'd take back?"
+ },
+ {
+  "id": "c02-ig",
+  "kind": "ig_carousel",
+  "at": "2026-11-09T15:00:00Z",
+  "status": "pending",
+  "note": "карусель c02 win clients (боль 1), старт серии Get clients",
+  "first_comment": "Which is hardest for you: the first message, the follow-up, or talking price? 👇",
+  "text": "Your pitch isn't bad. It's just about you. 👀\n\nThat's why it gets ignored, and why you rewrite proposals for hours. These 5 prompts make AI write about the client's problem instead:\n1. Find their real problem (paste their site or job post)\n2. A cold DM under 50 words that ends with an easy yes/no question\n3. A proposal opener: their problem, your 3-step plan, the result\n4. A follow-up that adds a new idea instead of \"just checking in\"\n5. A calm reply to \"too expensive\" that cuts scope, not your price\n\nThe result: messages that give the client something easy to answer, written in minutes instead of hours.\n\nBonus on slide 8: paste 2 of your own messages that got replies, so the AI writes in your voice, not robot voice.\n\nSwap the [BRACKETS], paste into free ChatGPT or Claude, then edit before you send. AI writes the first draft. You make it true.\n\nSave this before your next pitch. Know a freelancer who hates selling? Send them this. Follow: the \"get clients\" series starts this week.\n\n#freelancetips #freelancerlife #chatgptprompts #coldoutreach #clientacquisition",
+  "images": [
+   "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/01.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/02.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/03.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/04.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/05.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/06.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/07.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/08.jpg",
+   "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/09.jpg"
+  ]
+ }
+]
