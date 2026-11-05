@@ -37,11 +37,13 @@
   "id": "reel14-ig",
   "kind": "ig_reel",
   "at": "2026-11-05T17:30:00Z",
-  "status": "publishing",
+  "status": "done",
   "note": "Difficult client 3/5, proposal ghosted (боль 1)",
   "first_comment": "How long do you wait before following up on a proposal? 3 days, a week, never? 👇",
   "text": "\"Just checking in\" gives them nothing to reply to. 👻\n\nDifficult client series, part 3/5. Your proposal went out, then silence. Instead of another nudge, send one new, specific idea for their business and end with an easy yes/no question.\n\nCopy-paste prompt (works in free ChatGPT, no login):\n\nA client went silent [X] days after my proposal. Write a short follow-up email.\nDon't write \"just checking in\" or \"following up\". Open with one new, specific idea for their business that wasn't in the proposal.\nEnd with an easy yes/no question. Friendly, no pressure, no discount, under 80 words.\nGive before you ask.\n\nMy proposal: [what, price, timeline]. Client: [name].\n\nWhat I noticed since: [one real thing you spotted about their business, plus any deadline coming up]\n\nThe \"what I noticed\" line matters most. Spend 5 minutes on their site or socials and find one real thing.\n\n🔖 Save this for the next silent client.\n📤 Send it to a freelancer who's waiting on a reply.\n➕ Follow. Part 4: the reply for unclear feedback.\n\n#freelancetips #freelancer #chatgptprompts #followupemail #freelancelife",
-  "video": "https://gigautopilot.github.io/media/2026-11-03/2026-11-03-14-proposal-ghosted-final.mp4"
+  "video": "https://gigautopilot.github.io/media/2026-11-03/2026-11-03-14-proposal-ghosted-final.mp4",
+  "result": "https://www.instagram.com/reel/DfXoXDAHfI9/",
+  "done_at": "2026-11-05T18:03:44.980019+00:00"
  },
  {
   "id": "T18-threads",
