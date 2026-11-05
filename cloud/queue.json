@@ -127,6 +127,33 @@
   "text": "Hot take: saying sure, no problem to extra work isn't kindness. It's an unclear answer.\n\nThe client hears free. You meant polite. Neither of you is wrong, and you're the one who pays for it.\n\nSame warmth, clear terms: Happy to. That's an add-on, here's the price.\n\nWhich request did you say sure to that you'd take back?"
  },
  {
+  "id": "T23-threads",
+  "kind": "threads_post",
+  "at": "2026-11-08T14:00:00Z",
+  "status": "pending",
+  "note": "Threads T23, польза, боль 2",
+  "first_comment": null,
+  "text": "Two nudges sent, nothing back. The third message is the one you keep putting off.\n\nSo write the whole ladder once, before you need it. Copy into any free AI chat:\n\nClient hasn't paid invoice [#] for [amount]. Write 4 emails for 1, 7, 14 and 30 days overdue. Each firmer than the last, under 50 words. Day 14 asks for a payment date. No guilt, no threats.\n\nNext email: already written. Save this for the next late payment."
+ },
+ {
+  "id": "T24-threads",
+  "kind": "threads_post",
+  "at": "2026-11-08T22:00:00Z",
+  "status": "pending",
+  "note": "Threads T24, мнение, боль 2",
+  "first_comment": null,
+  "text": "Net 30 is an interest-free loan from you to your client. Most freelancers hand it out without being asked.\n\nLate payers aren't always villains. Money just goes to whoever is easiest to put off. Shorter terms and a deposit make you less easy.\n\nTry one line in your contract: Work starts after a 50% deposit. Balance due 7 days after delivery.\n\nNet 30 or net 7: what do you actually use?"
+ },
+ {
+  "id": "T25-threads",
+  "kind": "threads_post",
+  "at": "2026-11-09T14:00:00Z",
+  "status": "pending",
+  "note": "Threads T25, Get clients 1/5, боль 1",
+  "first_comment": null,
+  "text": "You sent a pile of pitches and heard nothing. Check line one. If it starts with I'm or I have, the client has no reason to read line two.\n\nFlip it. Copy into any free AI chat:\n\nHere's my pitch opener: [paste]. Rewrite it 3 ways, all about the client. Use only this detail: [what you noticed on their site]. Under 20 words each, no flattery, no I.\n\nGet clients, part 1 of 5. Follow to catch the rest."
+ },
+ {
   "id": "c02-ig",
   "kind": "ig_carousel",
   "at": "2026-11-09T15:00:00Z",
@@ -145,5 +172,14 @@
    "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/08.jpg",
    "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/09.jpg"
   ]
+ },
+ {
+  "id": "T26-threads",
+  "kind": "threads_post",
+  "at": "2026-11-09T22:00:00Z",
+  "status": "pending",
+  "note": "Threads T26, мнение, боль 1",
+  "first_comment": null,
+  "text": "Cold messages don't fail because they're cold. They fail because line one is about the sender.\n\nLove your work is the same trap in a nicer coat. It says nothing the client can't hear from every other sender. A specific thing you noticed on their site does more than any compliment.\n\nCompliment, question, or a problem you spotted: which opens your cold messages?"
  }
 ]
