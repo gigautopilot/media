@@ -136,6 +136,16 @@
   "text": "Two nudges sent, nothing back. The third message is the one you keep putting off.\n\nSo write the whole ladder once, before you need it. Copy into any free AI chat:\n\nClient hasn't paid invoice [#] for [amount]. Write 4 emails for 1, 7, 14 and 30 days overdue. Each firmer than the last, under 50 words. Day 14 asks for a payment date. No guilt, no threats.\n\nNext email: already written. Save this for the next late payment."
  },
  {
+  "id": "reel17-ig",
+  "kind": "ig_reel",
+  "at": "2026-11-08T17:30:00Z",
+  "status": "pending",
+  "note": "Day 14 ladder (боль 2), вне серии",
+  "first_comment": "Honest question: how many days do you wait before the first reminder? And has \"just checking in\" ever actually got you paid? 👇",
+  "text": "Two reminders, zero replies, and your fingers are already typing \"just checking in\". 🧾\n\nDon't write the third one from scratch. One prompt builds the whole chase in advance: day 1 assumes they forgot, day 7 makes paying easy, day 14 asks for a payment date, day 30 is the final notice. Each one firmer, none of them rude.\n\nCopy-paste prompt (works in free ChatGPT, no login):\n\nA client hasn't paid my invoice. Write 4 short reminder emails, one for each day overdue: 1, 7, 14, 30.\nDay 1: assume they forgot.\nDay 7: make paying easy, list how to pay.\nDay 14: ask them to confirm a payment date by [DAY].\nDay 30: final notice, mention the late fee from our contract, give a [NUMBER]-day deadline.\nEach one firmer than the last. Under 50 words each.\nNever write \"just checking in\" or \"following up\". No guilt, no threats.\nFirm on dates, soft on people.\n\nInvoice: [NUMBER], [AMOUNT], [WORK]. Client: [NAME, COMPANY].\nHow to pay: [PAYMENT OPTIONS].\nLate fee in our contract: [YOUR TERMS, or delete this line and the fee from Day 30].\n\nThe client and amounts in the video are made up. Only mention a late fee that's really in your contract, and check every date in the email before you send it.\n\n🔖 Save this for the next late invoice.\n📤 Send it to a freelancer still waiting to get paid.\n➕ Follow. Tomorrow: Get clients, part 1/5.\n\n#freelancetips #freelancer #chatgptprompts #latepayment #invoicing",
+  "video": "https://gigautopilot.github.io/media/2026-11-05/scratchpad-2026-11-08-17-day-14-payment-final.mp4"
+ },
+ {
   "id": "T24-threads",
   "kind": "threads_post",
   "at": "2026-11-08T22:00:00Z",
@@ -172,6 +182,16 @@
    "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/08.jpg",
    "https://gigautopilot.github.io/media/carousels/2026-11-04-c02-win-clients-prompts/09.jpg"
   ]
+ },
+ {
+  "id": "reel18-ig",
+  "kind": "ig_reel",
+  "at": "2026-11-09T17:30:00Z",
+  "status": "pending",
+  "note": "Get clients 1/5, первая строка питча (боль 1)",
+  "first_comment": "Paste the first line of your last pitch below. How many times does it say \"I\"? 👇",
+  "text": "Count the word \"I\" in the first line of your last pitch. Most of the line is probably about you. 📭\n\nA client deciding whether to keep reading doesn't need your years of experience yet. They need a reason to read line two. So take your real first line, add one detail you noticed about them, and rewrite it around their business.\n\nCopy-paste prompt (works in free ChatGPT, no login):\n\nHere's the first line of my pitch: \"[YOUR FIRST LINE]\"\nRewrite it as 3 first lines about the client, not me.\nUse only the details below. Don't invent facts, results or numbers.\nUnder 20 words each. No flattery.\nNo \"I\" in line one.\n\nClient: [NAME, BUSINESS].\nWhat I noticed: [ONE REAL DETAIL FROM THEIR SITE, POST OR JOB AD].\n\nThe client in the video is made up. Use a detail you really saw, and check it before you send. A better first line won't guarantee a reply, it just gives them a reason to keep reading.\n\n🔖 Save this before your next pitch.\n📤 Send it to a freelancer stuck in pitch silence.\n➕ Follow. Tomorrow, part 2/5: the cold DM under 50 words.\n\n#freelancetips #freelancer #chatgptprompts #coldpitch #getclients",
+  "video": "https://gigautopilot.github.io/media/2026-11-05/scratchpad-2026-11-09-18-pitch-first-line-final.mp4"
  },
  {
   "id": "T26-threads",
